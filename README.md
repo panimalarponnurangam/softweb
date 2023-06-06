@@ -573,7 +573,8 @@ condact.html
 
 
 
-![Screenshot (35)](https://github.com/panimalarponnurangam/softweb/assets/121490826/fdb0d61d-a646-4c90-9b11-3a2e61d7136d)
+![screen shot](https://github.com/panimalarponnurangam/softweb/assets/121490826/de8c01cd-2f11-4905-aeb0-e10879ce22e0)
+
 
 
 ![Screenshot (31)](https://github.com/panimalarponnurangam/softweb/assets/121490826/65c9668c-bccb-4481-b1fa-f03aedec9bdd)
