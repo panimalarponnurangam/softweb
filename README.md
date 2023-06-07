@@ -70,22 +70,22 @@ home.html
                     </div>
                 </header>
                 <div class="title">
-                    <h1>pani Fancy Universe</h1>
+                    <h1>Cognizant solutions</h1>
                 </div><br>
                 <div class="content">
                     <div class="text">
-                    <marquee><b>Feel BEAUTY through our Store</b></marquee>
-                    <p style="color:purple; font-family:'Tahoma'; font-size:20px;"> This is the Official Website of our Fancy Store</p>
+                    <marquee><b>Leading software developer</b></marquee>
+                    <p style="color:purple; font-family:'Tahoma'; font-size:20px;"> This is the Official Website of our Software company!</p>
                     </div>
-                    <p>Buy Fancy items and Cosmetics online for Women from <span style="background-color:lime">pani Fancy Universe</span>
-                         for Rs.100 | Buy cosmetics in ONE SIZE online | 7 Days Returns | Trend setting models | And much more</p>
+                    <p>Leading software developer <span style="background-color:lime">Cognizant solutions</span>
+                         GST Billing software | Supermarket software | Mobile shops | Restaurent management| And much more</p>
                     <br>
                 <center>
-                    <img src="/static/images/fri3.png">
-                    <img src="/static/images/fri1.png">
-                    <img src="/static/images/fri2.png">
-                    <img src="/static/images/fri4.png">
-                    <img src="/static/images/fri5.png">
+                    <img src="/static/images/11.jpg">
+                    <img src="/static/images/22.jpg">
+                    <img src="/static/images/33.jpg">
+                    <img src="/static/images/33.png">
+                    <img src="/static/images/55.jpg">
                     
                 </center>
                 </div>
@@ -134,7 +134,7 @@ product.html
             margin-right:auto;
         }
         .ph1{
-            background-image: url(/static/images/item1.png);
+            background-image: url(/static/images/111.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -152,7 +152,7 @@ product.html
             
         }
         .ph2{
-            background-image: url(/static/images/item2.png);
+            background-image: url(/static/images/666.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -169,7 +169,7 @@ product.html
             right:380px;
         }
         .ph3{
-            background-image: url(/static/images/item3.png);
+            background-image: url(/static/images/555.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -186,7 +186,7 @@ product.html
             right:380px;
         }
         .ph4{
-            background-image: url(/static/images/item4.png);
+            background-image: url(/static/images/444.jpg);
             background-position-x: center;
             border:1px solid black;
             height:200px;
@@ -207,7 +207,7 @@ product.html
         }
     
         .ph5{
-            background-image: url(/static/images/item5.png);
+            background-image: url(/static/images/333.jpg);
             background-position-x: center;
             border:1px solid black;
             height:200px;
@@ -228,7 +228,7 @@ product.html
         }
 
         .ph6{
-            background-image: url(/static/images/item6.png);
+            background-image: url(/static/images/222.jpg);
             background-position-x: center;
             border:1px solid black;
             height:200px;
@@ -280,17 +280,17 @@ product.html
                     <p>These are the products that are available now</p>
                     </div>
                     <div class="ph1"></div>
-                    <div class="l1"><p align="center"><b>Lipstick<br> Price: 1999.00</b><br><br><br><br></p></div>
+                    <div class="l1"><p align="center"><b>Computer<br> Price: 19999.00</b><br><br><br><br></p></div>
                     <div class="ph2"></div>
-                    <div class="l2"><p align="center"><b>Eyeliner<br> Price: 1899.00</b><br><br><br><br></p></div>
+                    <div class="l2"><p align="center"><b>Drone<br> Price: 19999.00</b><br><br><br><br></p></div>
                     <div class="ph3"></div>
-                    <div class="l3"><p align="center"><b>Compact Powder<br> Price: 1999.00</b><br<br><br><br></p></div>
+                    <div class="l3"><p align="center"><b>Gaming<br> Price: 1999.00</b><br<br><br><br></p></div>
                     <div class="ph4"></div>
-                    <div class="l4"><p align="center"><b>Foundation<br> Price: 6999.00</b><br><br><br><br></p></div>
+                    <div class="l4"><p align="center"><b>Tablet<br> Price: 6999.00</b><br><br><br><br></p></div>
                     <div class="ph5"></div>
-                    <div class="l5"><p align="center"><b>Make-up Brush<br> Price: 3999.00</b><br><br><br><br></p></div>
+                    <div class="l5"><p align="center"><b>Smartphones<br> Price: 6999.00</b><br><br><br><br></p></div>
                     <div class="ph6"></div>
-                    <div class="l6"><p align="center"><b>Primer<br> Price: 5999.00</b><br><br><br><br></p></div>
+                    <div class="l6"><p align="center"><b>Laptop<br> Price: 19999.00</b><br><br><br><br></p></div>
          
                 </div>
                 <div class="bot"><p>To Order Online: Call 90 80 70 2009</p></div>
@@ -302,8 +302,7 @@ product.html
         </div>
     </body>
 </html>
-
-people.html
+home.html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -483,7 +482,7 @@ people.html
 
                     
                     <div class="am3"><p align="center"><b><h2></h2></b></p></div><br>
-                    <div class="text">Thank you so much for your kind support!<br>Hope our products had made you more B-E-A-UTIFUL!</div>
+                    <div class="text">Quality code for reliable future!<br>!</div>
                 </div>
                 <div class="footer">
                 <footer style="color:white">
@@ -566,22 +565,18 @@ condact.html
 
 
 
+
 ## OUTPUT:
+![Screenshot (43)](https://github.com/panimalarponnurangam/softweb/assets/121490826/9d5daa59-efdb-4c68-9573-3c00c7ffe3ee)
 
+![Screenshot (44)](https://github.com/panimalarponnurangam/softweb/assets/121490826/bbe19335-641a-45b1-86c8-2dd73f00ed0d)
 
-![Screenshot (34)](https://github.com/panimalarponnurangam/softweb/assets/121490826/c9014b13-bdae-47e8-ab2a-2d86817c14c3)
+![Screenshot (45)](https://github.com/panimalarponnurangam/softweb/assets/121490826/e18c53f2-5a74-4ed4-95f5-04412c70bd92)
 
+![Screenshot (37)](https://github.com/panimalarponnurangam/softweb/assets/121490826/2f3335bf-2c23-40a0-ba07-5c1c232ccca1)
 
+![Screenshot (47)](https://github.com/panimalarponnurangam/softweb/assets/121490826/8b23f3ae-c87f-40a4-9ee4-4bfb1871b720)
 
-![screen shot](https://github.com/panimalarponnurangam/softweb/assets/121490826/de8c01cd-2f11-4905-aeb0-e10879ce22e0)
-
-
-
-![Screenshot (31)](https://github.com/panimalarponnurangam/softweb/assets/121490826/65c9668c-bccb-4481-b1fa-f03aedec9bdd)
-
-![Screenshot (37)](https://github.com/panimalarponnurangam/softweb/assets/121490826/28242d1f-32b1-46db-838c-3c8bd0fd9a21)
-
-![Screenshot (32)](https://github.com/panimalarponnurangam/softweb/assets/121490826/fb2cc0b3-31c1-49bd-b9cd-465c42585546)
 
 ## HTML VALIDATOR:
 
