@@ -134,7 +134,7 @@ product.html
             margin-right:auto;
         }
         .ph1{
-            background-image: url(/static/images/111.jpg);
+            background-image: url(/static/images/ab.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -152,7 +152,7 @@ product.html
             
         }
         .ph2{
-            background-image: url(/static/images/666.jpg);
+            background-image: url(/static/images/ac.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -169,7 +169,7 @@ product.html
             right:380px;
         }
         .ph3{
-            background-image: url(/static/images/555.jpg);
+            background-image: url(/static/images/ae.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -186,7 +186,7 @@ product.html
             right:380px;
         }
         .ph4{
-            background-image: url(/static/images/444.jpg);
+            background-image: url(/static/images/ad.jpg);
             background-position-x: center;
             border:1px solid black;
             height:200px;
@@ -206,47 +206,10 @@ product.html
             bottom: 930px;
         }
     
-        .ph5{
-            background-image: url(/static/images/333.jpg);
-            background-position-x: center;
-            border:1px solid black;
-            height:200px;
-            width:30%;
-            position:relative;
-            left: 700px;
-            bottom:930px;
-            background-size: 280px;
-            background-repeat: no-repeat;
-            
-            
-        }
-        .l5{
-            color: cadetblue;
-            position:relative;
-            left:270px;
-            bottom: 930px;
-        }
+        
+        
 
-        .ph6{
-            background-image: url(/static/images/222.jpg);
-            background-position-x: center;
-            border:1px solid black;
-            height:200px;
-            width:30%;
-            position:relative;
-            left: 700px;
-            bottom:930px;
-            background-size: 280px;
-            background-repeat: no-repeat;
-            
-            
-        }
-        .l6{
-            color: crimson  ;
-            position:relative;
-            left:270px;
-            bottom: 930px;
-        }
+        
         .bot{
             text-align:center;
             font-size:larger;
@@ -280,17 +243,14 @@ product.html
                     <p>These are the products that are available now</p>
                     </div>
                     <div class="ph1"></div>
-                    <div class="l1"><p align="center"><b>Computer<br> Price: 19999.00</b><br><br><br><br></p></div>
+                    <div class="l1"><p align="center"><b>web development<br><br><br><br></p></div>
                     <div class="ph2"></div>
-                    <div class="l2"><p align="center"><b>Drone<br> Price: 19999.00</b><br><br><br><br></p></div>
+                    <div class="l2"><p align="center"><b>3d software<br><br><br><br></p></div>
                     <div class="ph3"></div>
-                    <div class="l3"><p align="center"><b>Gaming<br> Price: 1999.00</b><br<br><br><br></p></div>
+                    <div class="l3"><p align="center"><b>python software<br><br<br><br><br></p></div>
                     <div class="ph4"></div>
-                    <div class="l4"><p align="center"><b>Tablet<br> Price: 6999.00</b><br><br><br><br></p></div>
-                    <div class="ph5"></div>
-                    <div class="l5"><p align="center"><b>Smartphones<br> Price: 6999.00</b><br><br><br><br></p></div>
-                    <div class="ph6"></div>
-                    <div class="l6"><p align="center"><b>Laptop<br> Price: 19999.00</b><br><br><br><br></p></div>
+                    <div class="l4"><p align="center"><b>network software<br><br><br><br></p></div>
+                   
          
                 </div>
                 <div class="bot"><p>To Order Online: Call 90 80 70 2009</p></div>
@@ -302,6 +262,9 @@ product.html
         </div>
     </body>
 </html>
+
+
+
 home.html
 <!DOCTYPE html>
 <html lang="en">
@@ -570,7 +533,8 @@ condact.html
 ![Screenshot (48)](https://github.com/panimalarponnurangam/softweb/assets/121490826/cf7dbda3-fb41-4b32-9445-ef47febe2ebb)
 
 
-![Screenshot (44)](https://github.com/panimalarponnurangam/softweb/assets/121490826/bbe19335-641a-45b1-86c8-2dd73f00ed0d)
+![Screenshot (49)](https://github.com/panimalarponnurangam/softweb/assets/121490826/5c9339ef-b813-4b97-8a52-1eb3b3812e8f)
+
 
 ![Screenshot (45)](https://github.com/panimalarponnurangam/softweb/assets/121490826/e18c53f2-5a74-4ed4-95f5-04412c70bd92)
 
